@@ -37,7 +37,15 @@ body,html
     cursor: pointer;
 }
 
-
+#features h2{
+    color: #ffffff;
+}
+#demo h2{
+    color: #ffffff;
+}
+#helpline h2{
+    color: #ffffff;
+}
 .navbar
 {
     opacity: 1;
