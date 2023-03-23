@@ -15,7 +15,7 @@ Mental health awareness involves creating a supportive and inclusive environment
 If you or someone you know is struggling with a mental health issue, it's important to seek professional help. Mental health professionals such as psychiatrists, psychologists, and licensed counselors can provide diagnosis, treatment, and support for a wide range of mental health issues. Additionally, there are a number of resources available for individuals and families affected by mental health disorders, including support groups, online forums, and crisis hotlines.</p>
 
 SOLUTION-
-<h1>E-mitra</h1>
+<h1>E-MITRA</h1>
 So , our team is here to break all the taboos regarding mental health, presenting solution to every mental health problem , our very own AI chat bot web app "EMITRA". 
 Emitra is AI-powered tool that can offer support, advice, and guidance to individuals who are experiencing mental health challenges. 
 
