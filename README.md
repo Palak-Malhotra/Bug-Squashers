@@ -1,5 +1,6 @@
 # Bug-Squashers
 <<<<<<< HEAD
+<<<<<<< HEAD
 PROBLEM STATEMENT-
 According to the National Mental Health Survey conducted in 2015-16, it was estimated that around 15% of the Indian population, or approximately 197 million people, had some form of mental health condition.
 There is a big stigma around people suffering from any kind of mental health issues. They are often tagged as “lunatics”, “crazy”, “possessed” and many more by society. This leads to a vicious cycle of shame, suffering and isolation of the patients.
@@ -12,6 +13,9 @@ Emitra is AI-powered tool that can offer support, advice, and guidance to indivi
 It can be accessed through messaging platforms or websites and can be used as a confidential and non-judgmental resource for those seeking help.
 =======
 <h1>E-mitra</h1>
+=======
+<h1>E-Mitra</h1>
+>>>>>>> 2c9c3084da1420095b20f34adc1dc260d549f159
 <h3>Mental Health Awarness</h3>
 <p>Mental health awareness is an important issue that involves recognizing and understanding the challenges that individuals face with their mental health. It involves educating oneself and others about the signs, symptoms, and treatment options for mental health disorders, as well as reducing the stigma associated with seeking help for these conditions.
 
