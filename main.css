@@ -19,21 +19,51 @@ body,html
 {
     padding:30px;
     color: darkgreen;
+    font-family: cursive;
+
 }
+.container a{
+    color: #ffffff;
+    size: 4px;
+    background-color: #165976;
+    font-size: 25px;
+    border-radius: 1.5pc;
+    font-style:italic;
+
+}
+.container a:hover{
+    color: #0a0852;
+    background-color: #7cc930;
+    cursor: pointer;
+}
+
 
 .navbar
 {
     opacity: 1;
+    background-color:#e6cdca;
+    box-shadow: #231716;
+    height: 70px;
+   
+}
+.navbar a{
+    color:#0a0852;
+    font-size: 3pc;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
 }
 .navbar .navbar-nav .nav-link
 {
     color:#7B241C;
+    font-weight: 700;
+    font-size: large;
 }
 .navbar .navbar-nav .nav-link:hover
 {
-    color:#fff;
+    color:#000000;
 }
 .navbar-toggler-icon
 {
     color:orange;
 }
+
