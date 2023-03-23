@@ -21,6 +21,10 @@ Emitra is AI-powered tool that can offer support, advice, and guidance to indivi
 
 It can be accessed through messaging platforms or websites and can be used as a confidential and non-judgmental resource for those seeking help.
 =======
-
+<img src="https://emitra-bugsquashers.netlify.app/Images/Colourful%20Scrapbook%20Collage%20Media%20Marketing%20Brainstorm%20Presentation.png">
+![image](https://user-images.githubusercontent.com/107789391/227117814-b07ec4a9-5b77-4e10-9fb6-2f5cde6fdc2d.png)
+![image](https://user-images.githubusercontent.com/107789391/227117870-82e37170-02c0-419f-aeec-9970a240ffa1.png)
+![image](https://user-images.githubusercontent.com/107789391/227117887-4d74f36d-54ab-45fe-9423-b22f8aba5f2d.png)
+![image](https://user-images.githubusercontent.com/107789391/227117912-e195c00e-6812-4657-b4db-cf239619ed17.png)
 
 
