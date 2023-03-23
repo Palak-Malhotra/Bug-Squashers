@@ -1,5 +1,5 @@
 # Bug-Squashers
-<h1>E-mitra</h1>
+<h1>E-Mitra</h1>
 <h3>Mental Health Awarness</h3>
 <p>Mental health awareness is an important issue that involves recognizing and understanding the challenges that individuals face with their mental health. It involves educating oneself and others about the signs, symptoms, and treatment options for mental health disorders, as well as reducing the stigma associated with seeking help for these conditions.
 
