@@ -17,7 +17,7 @@ If you or someone you know is struggling with a mental health issue, it's import
 SOLUTION-
 <h1>E-MITRA</h1>
 Link: https://emitra-bugsquashers.netlify.app/
-So , our team is here to break all the taboos regarding mental health, presenting solution to every mental health problem , our very own AI chat bot web app "EMITRA". 
+\nSo , our team is here to break all the taboos regarding mental health, presenting solution to every mental health problem , our very own AI chat bot web app "EMITRA". 
 Emitra is AI-powered tool that can offer support, advice, and guidance to individuals who are experiencing mental health challenges. 
 
 It can be accessed through messaging platforms or websites and can be used as a confidential and non-judgmental resource for those seeking help.
